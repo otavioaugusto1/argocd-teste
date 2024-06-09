@@ -102,6 +102,8 @@ Além da interface web, você também pode usar a CLI do Argo CD para gerenciar 
      --dest-server https://kubernetes.default.svc \
      --dest-namespace <namespace>
    ```
+## Projeto
+Para visualizar qualquer mudança no projeto, basta editar o conteúdo do .yaml exemplo que deixei nesse repositório que a alteração será visualizada no Argo.
 
 4. **Sincronizar um aplicativo usando a CLI:**
    ```sh
